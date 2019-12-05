@@ -108,7 +108,7 @@
     "url": "git://github.com/gotwarlost/istanbul.git"
   },
   "dependencies": {
-    "abbrev": "1.0.x",
+    "abbrev": "1.1.1",
     "async": "1.x",
     "escodegen": "1.8.x",
     "esprima": "2.7.x",
