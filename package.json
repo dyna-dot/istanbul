@@ -110,7 +110,7 @@
   "dependencies": {
     "abbrev": "1.0.x",
     "async": "1.x",
-    "escodegen": "1.8.x",
+    "escodegen": "1.12.0",
     "esprima": "2.7.x",
     "glob": "^5.0.15",
     "handlebars": "^4.0.1",
